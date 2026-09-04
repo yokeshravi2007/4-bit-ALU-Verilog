@@ -46,17 +46,17 @@ B = 0101
 | `10`   | AND         | `0000`          |
 | `11`   | OR          | `1111`          |
 
-### Simulation Waveform
+## 📊 Simulation Waveform
 
 The waveform confirms that the ALU produces the expected output for all four operations.
 
-##🛠️ Tools Used
+## 🛠️ Tools Used
 Verilog HDL
 Xilinx ISE
 ISim
 Digital Logic Design
 
-##PROJECT STRUCTURE
+## 📁 Project Structure
 
 4-bit-ALU-Verilog/
 │
@@ -71,16 +71,15 @@ Digital Logic Design
 │
 └── README.md
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 Verilog HDL programming
 Combinational logic design
 Arithmetic and logical operations
 Verilog testbench development
 RTL simulation
-
-
 Waveform analysis using Xilinx ISim
-##👨‍💻 Author
+
+## 👨‍💻 Author
 
 **YOKESH R**
 
