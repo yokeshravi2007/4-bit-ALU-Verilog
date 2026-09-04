@@ -35,7 +35,7 @@ The design was simulated using **Xilinx ISE / ISim**.
 
 Test inputs:
 
-```text
+``text
 A = 1010
 B = 0101
 
@@ -83,12 +83,3 @@ Waveform analysis using Xilinx ISim
 
 **YOKESH R**
 
-
-### 8.5 Commit it
-
-Click **Commit changes...**
-
-For the commit message, enter:
-
-```text
-Add project README
